@@ -1,5 +1,5 @@
 The "YoutubeVideoDownloader" project includes a .exe file, which installs,
-as the name says, Youtube videos of your choice.
+as the name says, Youtube videos of your choice. So easy said, its a simple Youtube-Video-Installer!
 
 This project was made for educational purposes and at the was made by me just for fun.
 
