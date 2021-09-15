@@ -10,3 +10,5 @@ If there will be a case, that you experience any problems, please contact me on 
 under: FateAssassin#2344
 
 Project maintained by FateAssassin
+
+Rights are applied by the MIT Licence.
